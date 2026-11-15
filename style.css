@@ -1,0 +1,119 @@
+
+/* Name: Arooj Fatima */
+/* Roll No: _26i-3243__ */
+/* Section: _SE-E_ */
+
+
+/* Name: Arooj Fatima */
+/* Roll No: ______ */
+/* Section: ______ */
+
+body {
+    background-color: beige;
+    font-family: Arial, sans-serif;
+    color: darkslategray;
+    margin: 0;
+    padding: 15px;
+}
+
+/* Main Heading */
+h1 {
+    background-color: darkgreen;
+    color: white;
+    text-align: center;
+    padding: 25px;
+    margin: 0;
+    font-size: 35px;
+}
+
+/* Section Headings */
+h2 {
+    color: darkgreen;
+    text-align: center;
+    border-bottom: 2px solid darkseagreen;
+    padding-bottom: 10px;
+}
+
+/* Sub Headings */
+h3 {
+    color: olive;
+}
+
+/* Paragraphs */
+p {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-left: 10px;
+}
+
+/* Sections */
+section {
+    background-color: white;
+    margin: 25px auto;
+    padding: 30px 40px;
+    width: 75%;
+    border-radius: 12px;
+}
+
+/* Home Section */
+#home {
+    text-align: center;
+}
+
+/* Recipe Cards */
+.recipe {
+    background-color: honeydew;
+    padding: 20px;
+    margin: 20px 10px;
+    border-left: 5px solid darkgreen;
+    border-radius: 8px;
+}
+
+/* Lists */
+ul, ol {
+    line-height: 2;
+    padding-left: 35px;
+}
+
+/* Buttons */
+button {
+    background-color: darkgreen;
+    color: white;
+    padding: 12px 22px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 16px;
+    margin: 10px;
+}
+
+button:hover {
+    background-color: olive;
+}
+
+/* Nutrition Table */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+}
+
+th, td {
+    border: 1px solid darkseagreen;
+    padding: 12px;
+    text-align: left;
+}
+
+th {
+    background-color: darkgreen;
+    color: white;
+}
+
+/* Footer */
+footer {
+    background-color: darkgreen;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 20px;
+}
