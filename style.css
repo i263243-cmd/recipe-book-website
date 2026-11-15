@@ -5,8 +5,10 @@
 
 
 /* Name: Arooj Fatima */
-/* Roll No: ______ */
-/* Section: ______ */
+/* Roll No: 26i-3243 */
+/* Section: SE-E */
+
+
 
 body {
     background-color: beige;
@@ -116,4 +118,21 @@ footer {
     text-align: center;
     padding: 15px;
     margin-top: 20px;
+}
+/* Navigation Bar */
+nav {
+    background-color: olive;
+    text-align: center;
+    padding: 12px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 16px;
+}
+
+nav a:hover {
+    text-decoration: underline;
 }
